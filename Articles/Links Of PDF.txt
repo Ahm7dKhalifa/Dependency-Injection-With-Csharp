@@ -1,0 +1,6 @@
+1. 
+https://www.codementor.io/mrfojo/c-with-dependency-injection-k2qfxbb8q
+-----------------
+2.
+https://www.dotnettricks.com/learn/dependencyinjection/implementation-of-dependency-injection-pattern-in-csharp
+-----------------
